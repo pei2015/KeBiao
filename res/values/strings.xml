@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">易考</string>
+    <string name="action_contact">Contact</string>
+    <string-array name="weekdays">
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期日</item>
+    </string-array>
+    <string-array name="daytimes">
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>10:20</item>
+        <item>11:20</item>
+        <item>12:40</item>
+        <item>13:40</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:20</item>
+        <item>18:20</item>
+        <item>19:30</item>
+        <item>20:30</item>
+        <item></item>
+    </string-array>
+</resources>
